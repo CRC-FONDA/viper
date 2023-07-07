@@ -104,3 +104,7 @@ If you use Viper in your work, please cite us.
   doi       = {10.14778/3461535.3461543}
 }
 ```
+
+### Experimental Data
+We archived the YCSB benchmark on GitHub.
+The benchmark can be accessed via [https://github.com/CRC-FONDA/YCSB](https://github.com/CRC-FONDA/YCSB).
